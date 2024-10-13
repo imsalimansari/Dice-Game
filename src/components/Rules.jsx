@@ -22,11 +22,14 @@ const RulesContainer = styled.div`
     margin: 0 auto;
     margin-top: 40px;
     border-radius: 10px;
+    margin-bottom: 40px;
+
 
     h2{
         font-size: 24px;
     }
     .text{
         margin-top: 24px;
+        margin-bottom: 24px;
     }
 `;
